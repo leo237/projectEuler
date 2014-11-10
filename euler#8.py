@@ -1,10 +1,10 @@
 t = input()
 
 while(t):
-	inp = raw_input()
-	n,k = inp.split()
+	n = raw_input()
+	# n,k = inp.split()
 	n = int(n)
-	k = int(k)
+	# k = int(k)
 	numb = raw_input()
 	maxProd = 0
 	
